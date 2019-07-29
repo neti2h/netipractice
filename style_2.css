@@ -1,0 +1,29 @@
+.word1 p{
+  line-height:50%;
+}
+.bline{
+  height: 5px;
+}
+body{
+  margin:0px;
+}
+#list_1{
+  float:left;
+  width:20%;
+  height: 725px;
+  background-color: brown;
+  color:white;
+  text-align:center;
+}
+#list_2{
+  float:right;
+  width:80%;
+  height:100%;
+  text-indent: 50px;
+}
+#list_2  p{
+  font-family:Arial;
+  font-weight: bold;
+  color: dimgrey;
+}
+
